@@ -1,0 +1,14 @@
+C:\Users\Lenovo\C#tutorial\bin\Debug\net10.0\C#tutorial.exe
+C:\Users\Lenovo\C#tutorial\bin\Debug\net10.0\C#tutorial.deps.json
+C:\Users\Lenovo\C#tutorial\bin\Debug\net10.0\C#tutorial.runtimeconfig.json
+C:\Users\Lenovo\C#tutorial\bin\Debug\net10.0\C#tutorial.dll
+C:\Users\Lenovo\C#tutorial\bin\Debug\net10.0\C#tutorial.pdb
+C:\Users\Lenovo\C#tutorial\obj\Debug\net10.0\C#tutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\C#tutorial\obj\Debug\net10.0\C#tutorial.AssemblyInfoInputs.cache
+C:\Users\Lenovo\C#tutorial\obj\Debug\net10.0\C#tutorial.AssemblyInfo.cs
+C:\Users\Lenovo\C#tutorial\obj\Debug\net10.0\C#tutorial.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\C#tutorial\obj\Debug\net10.0\C#tutorial.dll
+C:\Users\Lenovo\C#tutorial\obj\Debug\net10.0\refint\C#tutorial.dll
+C:\Users\Lenovo\C#tutorial\obj\Debug\net10.0\C#tutorial.pdb
+C:\Users\Lenovo\C#tutorial\obj\Debug\net10.0\C#tutorial.genruntimeconfig.cache
+C:\Users\Lenovo\C#tutorial\obj\Debug\net10.0\ref\C#tutorial.dll

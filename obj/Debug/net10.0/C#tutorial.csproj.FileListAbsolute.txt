@@ -12,3 +12,4 @@ C:\Users\Lenovo\C#tutorial\obj\Debug\net10.0\refint\C#tutorial.dll
 C:\Users\Lenovo\C#tutorial\obj\Debug\net10.0\C#tutorial.pdb
 C:\Users\Lenovo\C#tutorial\obj\Debug\net10.0\C#tutorial.genruntimeconfig.cache
 C:\Users\Lenovo\C#tutorial\obj\Debug\net10.0\ref\C#tutorial.dll
+C:\Users\Lenovo\C#tutorial\obj\Debug\net10.0\C#tutorial.sourcelink.json

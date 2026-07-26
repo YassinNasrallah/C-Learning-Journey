@@ -10,9 +10,7 @@ using System;
 
         // Stores a sequence of characters (text)
          string characterName = "Yassin";
-         string email = "yassinnassrallah@gmail.com";
         // Stores a whole number (integer)
-         int characterAge = 22;
          int validAge = 18;
         // Stores decimal numbers with high precision (used for money and prices)
          decimal PlaystationPrix = 549.99m;
@@ -21,10 +19,14 @@ using System;
         
         // Stores decimal numbers (used for speed, position, and physics)
          float Speed = 100.8f;
-         bool valid = false;
-
+         bool valid;
          //sheck if user information is valid 
-         if(characterAge >= validAge && email.Contains("@gmail.com"))
+         
+           Console.Write("Enter Your Age:");
+           int characterAge = Convert.ToInt32((Console.ReadLine()));
+           Console.Write("Enter Your email:");
+           string userEmail = Console.ReadLine();
+         if(characterAge >= validAge && userEmail.Contains("@gmail.com"))
          {
           valid = true;
           Console.WriteLine("succes");
@@ -45,7 +47,6 @@ using System;
 
            for(int i = 0 ; i<nums.Length ; i++)
            {
-          
           for(int j = i+1 ;j<nums.Length;j++)
             {
             total = nums[i] + nums[j];

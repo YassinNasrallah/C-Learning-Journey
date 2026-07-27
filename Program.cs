@@ -37,6 +37,16 @@ using System;
            Console.WriteLine("invalid");
          }
 
+          //deal with array 
+        string [] frindsList = new string[3];
+        frindsList[0] = "abdrahman";
+        frindsList[1] = "yassin";
+        frindsList[2] = "mohamed";
+        if(frindsList.Contains("abdrahman")){
+           Console.WriteLine("Welcome");
+        } else{
+          Console.WriteLine("You are not welcome");
+        }
 
          
 
